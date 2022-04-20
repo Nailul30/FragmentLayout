@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("comf55119035.example.fragmentlayout", appContext.getPackageName());
+        assertEquals("comf55119084.example.fragmentlayout", appContext.getPackageName());
     }
 }
